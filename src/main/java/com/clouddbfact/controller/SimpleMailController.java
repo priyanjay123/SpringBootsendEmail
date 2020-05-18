@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.clouddbfact.controller;
 
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
